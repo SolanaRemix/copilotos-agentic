@@ -1,3 +1,4 @@
+# Placeholder for pipeline automation script v3.0.0
 <#
 .SYNOPSIS
   CopilotOS Agentic Pipeline v3.0.0
