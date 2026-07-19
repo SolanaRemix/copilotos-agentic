@@ -1,36 +1,37 @@
-🚀 CopilotOS Agentic v4.0
 
-The Self-Healing Swarm for Autonomous Repository Governance
-Winner of [Hackathon Name] 2027 — "Most Disruptive Infrastructure"
+# 🚀 CopilotOS Agentic v4.0
+**The Self-Healing Swarm for Autonomous Repository Governance**  
+*Winner of Hackathon 2027 — "Most Disruptive Infrastructure"*
 
-https://img.shields.io/badge/License-AGPLv3-blue.svg
-https://img.shields.io/badge/version-4.0.0--alpha-brightgreen
-https://img.shields.io/badge/Agentic%20Score-AA+-gold
-https://img.shields.io/badge/Blockchain-Solana%20%7C%20EVM-purple
-
----
-
-🌌 The Vision
-
-CopilotOS Agentic isn't just a CI/CD pipeline — it's a swarm intelligence layer for your repositories. In 2027, code doesn't break; it evolves. Our deterministic swarm of autonomous agents predicts, prevents, and self-heals production incidents before they happen, using on-chain verification and zero-knowledge proofs for immutable audit trails.
-
-"Stop fixing bugs. Let the swarm fix them while you build the future."
+[![License](https://img.shields.io/badge/License-AGPLv3-blue.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/version-4.0.0--alpha-brightgreen)](VERSION)
+[![Agentic Score](https://img.shields.io/badge/Agentic%20Score-AA+-gold)](https://github.com/SolanaRemix/copilotos-agentic)
+[![Blockchain](https://img.shields.io/badge/Blockchain-Solana%20%7C%20EVM-purple)](https://solana.com)
 
 ---
 
-🧠 Core Innovations (2027 Edition)
+## 🌌 The Vision
 
-Capability Description
-Predictive Repair LLM-driven static analysis that fixes code 15x faster than human review
-Swarm Consensus Merges 5 autonomous agents vote on every PR — no single point of failure
-Blockchain Attestation Every merge is timestamped on Solana for immutable compliance
-Self-Adaptive Tests Tests that generate themselves based on code drift detection
-Quantum-Resistant Signing Post-quantum signatures for all pipeline artifacts
-Zero-Touch Rollback Automatic revert with causal inference when anomalies detected
+**CopilotOS Agentic** isn't just a CI/CD pipeline — it's a **swarm intelligence layer** for your repositories. In 2027, code doesn't break; it *evolves*. Our deterministic swarm of autonomous agents predicts, prevents, and self-heals production incidents **before they happen**, using on-chain verification and zero-knowledge proofs for immutable audit trails.
+
+> **"Stop fixing bugs. Let the swarm fix them while you build the future."**
 
 ---
 
-🏗️ Agentic Architecture (2027)
+## 🧠 Core Innovations (2027 Edition)
+
+| Capability | Description |
+|:-----------|:------------|
+| **Predictive Repair** | LLM-driven static analysis that fixes code 15x faster than human review |
+| **Swarm Consensus Merges** | 5 autonomous agents vote on every PR — no single point of failure |
+| **Blockchain Attestation** | Every merge is timestamped on Solana for immutable compliance |
+| **Self-Adaptive Tests** | Tests that generate themselves based on code drift detection |
+| **Quantum-Resistant Signing** | Post-quantum signatures for all pipeline artifacts |
+| **Zero-Touch Rollback** | Automatic revert with causal inference when anomalies detected |
+
+---
+
+## 🏗️ Agentic Architecture (2027)
 
 ```mermaid
 graph TD
@@ -157,7 +158,7 @@ Powered by the open-source community, GitHub Copilot, and way too much caffeine 
 📞 Enterprise Support
 
 For private deployments, SLAs, or custom agent development:
-📧 enterprise@copilot-os.io
+📧 gxqstudio@gmail.com
 🌐 https://copilot-os.io/enterprise
 
 ---
@@ -168,4 +169,4 @@ For private deployments, SLAs, or custom agent development:
 · DAO governance — token holders vote on swarm upgrades
 · Agent-to-agent negotiation for resource allocation
 · Full quantum-resistant encryption for all messages
-· Inter-swarm communication — multiple repos collaborate
+· Inter-swarm communication — multiple repos collaborate🏆
